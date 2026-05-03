@@ -43,10 +43,24 @@ Then open the local URL shown in the terminal to preview the site.
 npm run build
 ```
 
+## Screenshots
+
+### Front Page
+
+![Front Page](front-page-screenshot.png)
+
+### Hero Section
+
+![Hero Section](hero-section-screenshot.png)
+
+### Projects Section
+
+![Projects Section](projects-section-screenshot.png)
+
 ## Notes
 
 - The project was built efficiently with AI assistance and prompt-driven iteration.
-- A front-page screenshot has been captured and can be used to preview the design.
+- Screenshots of the landing page and key sections are included for quick preview.
 
 ## Author
 
