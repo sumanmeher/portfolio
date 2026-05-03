@@ -1,0 +1,14 @@
+html, body, #root {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  background: #f7f5f0;
+  color: #1a1814;
+}
+
+a {
+  color: inherit;
+}
