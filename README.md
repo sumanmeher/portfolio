@@ -53,9 +53,25 @@ npm run build
 
 ![Hero Section](hero-section-screenshot.png)
 
+### About Section
+
+![About Section](about-section-screenshot.png)
+
+### Experience Section
+
+![Experience Section](experience-section-screenshot.png)
+
+### Skills Section
+
+![Skills Section](skills-section-screenshot.png)
+
 ### Projects Section
 
 ![Projects Section](projects-section-screenshot.png)
+
+### Contact Section
+
+![Contact Section](contact-section-screenshot.png)
 
 ## Notes
 
