@@ -45,14 +45,6 @@ npm run build
 
 ## Screenshots
 
-### Front Page
-
-![Front Page](front-page-screenshot.png)
-
-### Hero Section
-
-![Hero Section](hero-section-screenshot.png)
-
 ### About Section
 
 ![About Section](about-section-screenshot.png)
